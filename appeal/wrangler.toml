@@ -1,0 +1,7 @@
+name = "phish-worker"
+main = "worker.js"
+compatibility_date = "2026-07-16"
+
+[[kv_namespaces]]
+binding = "PHISH_STATE"
+id = "45eda249e6ab440b9b9c6ca35b264fb3"
